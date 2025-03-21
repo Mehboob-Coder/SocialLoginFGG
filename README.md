@@ -54,3 +54,26 @@ Github Generate Access Token =
 	8= write Note
 	9= Click Generate Token 
 	10= Copy access Token = ""
+ 
+Facebook Generate Access Token & Secret id @ App secret 
+	1=Facebook develop console
+	2=https://developers.facebook.com/
+	3= login
+	4= with facebook / new create account
+	5=My Apps
+	6=Create App
+	7=App name="" 
+	8=Next
+	9=Authenticate and request data from user with facebook login 
+	10=Next
+	11=Next and go to dashboard
+	12= Click app setting 
+	13= Basic
+	14 = Copy App id= "" and App secret= " "
+	15= fill this page data =url name profile , call back url , category id etc
+	16= save change 
+	17=click Tool
+	18= View all 
+	19= Copy User Token =" "
+	
+	20=User token is access token 
